@@ -1,0 +1,16 @@
+# ScriptCoach Configuration
+# Copy this file to .env and update with your values
+
+# Server Configuration
+PORT=5000
+DEBUG=True
+
+# DeepSeek AI Configuration
+OPENAI_API_KEY=sk-ee5c7c3f1674411b89ae50b657489c43
+OPENAI_API_BASE=https://api.deepseek.com/v1
+
+# Optional: Custom Settings
+# DEFAULT_PLATFORM=reels
+# DEFAULT_DURATION=60
+# DEFAULT_TONE=directo
+# DEFAULT_OBJECTIVE=autoridad
